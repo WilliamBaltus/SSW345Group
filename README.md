@@ -13,6 +13,7 @@ Describe the Problems:
 It allows for easier time organization and optimizes scheduling with groups while eliminating confusion through individuals.
 
 Describe Possible Designs:
+
 3a.) What is the core product idea?
 A discord bot that performs the functions of scheduling and time management for individuals and groups alike.
 
